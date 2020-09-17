@@ -14,8 +14,8 @@ Pré-requis: *préparer son environnement miniconda*.
 6. `conda activate pytorch`
 
 Installer PyTorch et Jupyter:
-1. `conda install sklearn pytorch torchvision cudatoolkit=$INSERER_CUDA_VERSION(10.1/10.2) -c pytorch`
-2. `pip install jupyter`
+1. `conda install pytorch torchvision cudatoolkit=$INSERER_CUDA_VERSION(10.1/10.2) -c pytorch`
+2. `pip install sklearn jupyter`
 
 Une fois le dépôt clôné, vous pouvez lancer votre notebook jupyter:    
 `jupyter notebook --no-browser --port=XXXX` **LE PORT DOIT ÊTRE UNIQUE PAR ÉTUDIANT**
