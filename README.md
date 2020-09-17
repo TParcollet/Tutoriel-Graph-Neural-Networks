@@ -5,7 +5,7 @@ PyTorch est une bibliothèque logicielle Python open source d'apprentissage auto
 
 Source: https://www.youtube.com/watch?v=X_fmiIy_YyI&list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-&index=9
 
-Pré-requis: *préparer son environnement miniconda*.   
+Pré-requis: *préparer son environnement miniconda*.**(PAS NÉCESSAIRE SUR HERACLES ET ACHILES)**   
 1. `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
 2. `chmod +x Miniconda3-latest-Linux-x86_64.sh`
 3. `./Miniconda3-latest-Linux-x86_64.sh`
